@@ -1,0 +1,3 @@
+timestamp,hostname,script_length,whitespace_count,residual,absolute_residual,is_outlier
+2026-01-01 02:46:20,SQLSERVER16,601,0,-60.987480255638026,60.987480255638026,True
+2026-01-01 02:46:30,SQLSERVER29,808,6,-75.24941857665058,75.24941857665058,True

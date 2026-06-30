@@ -1,0 +1,7 @@
+{
+  "model_type": "LinearRegression",
+  "intercept": 2.1593404926981563,
+  "coefficient_script_length": 0.09788376000489163,
+  "total_scripts": 1000,
+  "outliers_found": 2
+}
