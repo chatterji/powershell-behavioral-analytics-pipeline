@@ -6,18 +6,7 @@ This repository presents an enterprise cybersecurity analytics solution
 that applies behavioral feature engineering and statistical anomaly
 detection to PowerShell activity.
 
-The solution was developed to address a real operational problem: more
-than **800,000 PowerShell execution logs were generated daily**. Existing
-
-SIEM tools successfully identified approximately **50,000 PowerShell**
-
-**executions** that warranted additional review, making comprehensive manual
-
-investigation impractical. Leadership sought an AI-assisted approach to
-
-further prioritize those events so analysts could focus on the highest-risk
-
-activity.
+The solution was developed to address a real operational problem: more than **800,000 PowerShell execution logs were generated daily**. Existing SIEM tools successfully identified approximately **50,000 PowerShell** **executions** that warranted additional review, making comprehensive manual investigation impractical. Leadership sought an AI-assisted approach to further prioritize those events so analysts could focus on the highest-risk activity.
 
 Working with a member of the organization's Red Team, two behavioral
 indicators of malicious PowerShell scripts were identified:
