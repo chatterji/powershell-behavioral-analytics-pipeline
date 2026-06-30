@@ -5,16 +5,8 @@
 ## Executive Summary
 
 Modern enterprise environments generate enormous volumes of PowerShell
-activity every day. The organization's SIEM platform had already filtered 
-enterprise security telemetry down to approximately **50,000 daily PowerShell** 
-**executions** that required further review. While this represented significant 
-reduction from raw event volumes, the remaining investigation queue was still 
-far beyond what security analysts could realistically investigate. Leadership 
-challenged the team to determine whether AI and behavioral analytics could 
-further prioritize these events into a manageable daily workload. 
-Working with the organization's Red Team, two behavioral characteristics
-consistently associated with malicious PowerShell scripts were
-identified:
+activity every day. The organization's SIEM platform had already filtered enterprise security telemetry down to approximately **50,000 daily PowerShell** **executions** that required further review. While this represented significant reduction from raw event volumes, the remaining investigation queue was still far beyond what security analysts could realistically investigate. Leadership challenged the team to determine whether AI and behavioral analytics could further prioritize these events into a manageable daily workload. 
+Working with the organization's Red Team, two behavioral characteristics consistently associated with malicious PowerShell scripts were identified:
 
 * Unusually long script length
 * Unusually low whitespace density
