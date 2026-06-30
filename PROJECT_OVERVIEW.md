@@ -6,21 +6,9 @@ Enterprise security teams routinely collect enormous quantities of
 PowerShell execution data. While collection was not a problem,
 prioritizing investigations was.
 
-The organization generated more than 800,000 PowerShell execution logs every day. 
+The organization generated more than 800,000 PowerShell execution logs every day. Existing SIEM tools successfully identified approximately 50,000 PowerShell executions that warranted additional review, making comprehensive manual investigation impractical. Existing vendor security platforms and SIEM tools could not distinguish the small number of scripts most likely to represent malicious activity.
 
-Existing SIEM tools successfully identified approximately 50,000 PowerShell
-
-executions that warranted additional review, making comprehensive manual
-
-investigation impractical. Existing vendor security platforms and SIEM tools 
-
-could not distinguish the small number of scripts most likely to represent 
-
-malicious activity.
-
-Leadership sought an AI-assisted approach to further prioritize those events 
-
-so analysts could focus on the highest-risk activity.
+Leadership sought an AI-assisted approach to further prioritize those events so analysts could focus on the highest-risk activity.
 
 ## Objective
 
