@@ -5,9 +5,7 @@
 The enterprise cybersecurity organization generated more than **800,000
 PowerShell execution logs every day**. Existing SIEM and endpoint
 security platforms successfully collected these events but could only
-reduce them to approximately **50,000 PowerShell executions** that warranted 
-
-additional review.
+reduce them to approximately **50,000 PowerShell executions** that warranted additional review.
 
 Analysts were forced to review an overwhelming volume of activity,
 increasing investigation time, analyst fatigue, and the risk that
