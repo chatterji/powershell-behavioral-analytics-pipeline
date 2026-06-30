@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.*
+
+# Data (keep README only)
+data/*
+!data/README.md
+!data/sample_*.csv
+
+# Results
+results/*
+!results/README.md
+!results/*.png
+!results/*.csv
+
+# Models
+models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Build
+build/
+dist/
+
+# Temporary
+*.tmp
+*.bak

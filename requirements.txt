@@ -1,0 +1,20 @@
+# Core Data Science
+pandas>=2.2
+numpy>=1.26
+
+# Machine Learning
+scikit-learn>=1.5
+
+# Visualization
+matplotlib>=3.9
+
+# Notebook
+jupyter>=1.0
+
+# Hadoop / Spark (optional for local development)
+pyspark>=3.5
+
+# Utilities
+scipy>=1.13
+
+pytest>=8.0
