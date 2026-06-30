@@ -1,0 +1,3 @@
+timestamp,hostname,script_length,whitespace_count
+2026-01-01 08:00:00,SERVER01,245,38
+2026-01-01 08:01:00,SERVER02,510,12
