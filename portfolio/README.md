@@ -8,8 +8,6 @@ This folder contains executive-facing portfolio documents for the **PowerShell B
 - Executive One-Pager
 - Employer Value Summary
 - Enterprise AI Portfolio Summary
-- Interview Talking Points
-- Portfolio Presentation Slide
 - Repository Structure
 
 These documents are intended for recruiters, hiring managers, and interview presentations.
